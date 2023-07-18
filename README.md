@@ -1,4 +1,4 @@
-# spam-bots-detector
+# Spam accounts detection using deep neural networks with Tensorflow
 
 #About Dataset
 
